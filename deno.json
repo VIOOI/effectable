@@ -1,0 +1,10 @@
+{
+	"name": "effectable",
+	"version": "0.0.1",
+	"exports": {
+		".": "./mod.ts"
+	},
+	"imports": {
+		"effect": "npm:effect@^3.17.2"
+	}
+}
